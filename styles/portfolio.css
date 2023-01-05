@@ -61,3 +61,27 @@ nav li{
     font-size: 18px;
     margin-bottom: 30px;
 }
+/* main section */
+main{
+    max-width: 1140px;
+    margin :0 auto;
+}
+
+/* section styles */
+.about{
+    background-color: #ecc488;
+    border-radius: 10px;
+    margin-top: 130px;
+}
+.section-title{
+    text-align: center;
+    margin-bottom: 30px;
+
+}
+.section-description{
+    Color: #757575;
+    font-size: 18px;
+    margin-bottom: 15px;
+    padding-left: 40px;
+
+}
