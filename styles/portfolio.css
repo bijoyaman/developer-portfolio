@@ -72,9 +72,12 @@ main{
     background-color: #ecc488;
     border-radius: 10px;
     margin-top: 130px;
+    text-align: center;
 }
 .section-title{
-    text-align: center;
+    
+    font-weight: 800;
+    font-size: 35px;
     margin-bottom: 30px;
 
 }
@@ -84,4 +87,16 @@ main{
     margin-bottom: 15px;
     padding-left: 40px;
 
+}
+.about-info-container{
+    display: flex;
+    justify-content: space-around;
+}
+.about .info-title{
+    font-size: 20px;
+    color: #757575;
+}
+.info-description{
+    font-size: 22px;
+    color: #474747;
 }
